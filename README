@@ -1,0 +1,27 @@
+##################################
+Created by Andrei Tjutrin
+##################################
+
+**********************************
+Description
+**********************************
+Project creates a website with author's favourite movies. User is able to see a selection of posters, click on each poster to run trailer.
+
+**********************************
+Requirements to run the programme
+**********************************
+1. Python 2.7.6, author tried to run with python 3.3 without issues.
+2. On your browser of choise plugins should be isntalled to run youtube trailers.
+4. All 3 *.py files should be in the same folder.
+5. Internet connection required.
+
+**********************************
+How to run?
+**********************************
+1. Place all three files in the same folder.
+2. Run entertainment.py in terminal as "python entertainment.py"
+
+**********************************
+Contact author
+**********************************
+For any issues, bugs contact me at andreitjutrin@gmail.com
